@@ -1,2 +1,2 @@
-this is a group project by 
+this is a group project by
 Moses and Kevin
