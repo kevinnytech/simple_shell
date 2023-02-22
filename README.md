@@ -1,5 +1,2 @@
-this is agroup project by 
-
-#### [MosehMaguah](https://github.com/MosehMaguah)
-#### [kevinnytech](https://https://github.com/kevinnytech)
-
+this is a group project by 
+Moses and Kevin
